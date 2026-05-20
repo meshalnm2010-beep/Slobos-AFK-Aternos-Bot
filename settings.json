@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NEWW13.aternos.me:42129",
+    "ip": "NEWW13.aternos.me",
     "port": 42129,
     "version": "",
     "try-creative": false
